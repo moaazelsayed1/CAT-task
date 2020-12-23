@@ -20,10 +20,10 @@ Many requests sent to the server might require a database query. A client might 
 
 > problem 1:
 
--[A. Police Recruits](https://github.com/moaazelsayed1/CAT-task/blob/main/APoliceRecruits.cpp)</br>
+[A. Police Recruits](https://github.com/moaazelsayed1/CAT-task/blob/main/APoliceRecruits.cpp)</br>
 [ideone link](https://ideone.com/noj0Wx)
 
 > Problem 2:
 
--[Reversed String](https://github.com/moaazelsayed1/CAT-task/blob/main/reversedString.cpp)</br>
+[Reversed String](https://github.com/moaazelsayed1/CAT-task/blob/main/reversedString.cpp)</br>
 [ideone link](https://ideone.com/02hOKB)
