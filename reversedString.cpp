@@ -21,7 +21,7 @@ int main()
 std::string reverse(std::string p)
 {
     // we only need to iterate over thr half of the array so we can
-    // access every element only once and replace it with its index comlement 
+    // access every element only once and replace it with its index complement 
     for (int i = 0; i < p.length() / 2; i++)
     {
         char tmp = p[i];
