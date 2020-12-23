@@ -16,7 +16,7 @@ HTTP: Hyper Text Transfer Protocol, it's used to deliver content like text, imag
 ## 3. Why use a database?
 
 Storing data in a database reduces the load on the server CPU and allow to be retrieved if the server crashes.
-Many requests sent to the server might require a database query. A client might request information that is stored in the database, or submit data to be added to the database. 
+Many requests sent to the server might require a database query. A client might request information that is stored in the database, or submit data to be added to the database.<br/><br/> 
 
 >## Problems:
 
