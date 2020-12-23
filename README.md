@@ -5,7 +5,7 @@ This repository contains CATReloaded recruitment second phase tasks (backend).
 
 ## 1. What do you think back-end developers do?
 
-1. Back-end developers should understand the goals of the website and come up with the effective logic to make the web app function works properly using a server-side language like Python.<br/>
+1. Back-end developers should understand the goals of the website and come up with the effective logic to make the web app works properly using a server-side language like Python.<br/>
 2. they should understand some of front-end web technologies like HTML, CSS, and JavaScript; to communicate with team members on the front-end.<br/>
 2. They work with Database alse to create, edit and save it.<br/>
 
