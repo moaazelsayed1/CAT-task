@@ -11,11 +11,11 @@ This repository contains CATReloaded recruitment second phase tasks (backend).
 
 ## 2. Write What You know about HTTP?
 
-HTTP: Hyper Text Transfer Protocol, it's used to deliver content like text, images, videos, etc, between the server (where the data is stored) and the client computer.
+- HTTP: Hyper Text Transfer Protocol, it's used to deliver content like text, images, videos, etc, between the server (where the data is stored) and the client computer.
 
 ## 3. Why use a database?
 
-Storing data in a database reduces the load on the server CPU and allows data to be retrieved if the server crashes.
+- Storing data in a database reduces the load on the server CPU and allows data to be retrieved if the server crashes.
 Many requests sent to the server might require a database query. A client might request information that is stored in the database, or submit data to be added to the database,
 for example while log-in process
 <br/><br/> 
