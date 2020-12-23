@@ -24,10 +24,10 @@ for example while log-in process
 
 - ### problem 1:
 
-[A. Police Recruits](https://github.com/moaazelsayed1/CAT-task/blob/main/APoliceRecruits.cpp)</br>
-[Ideone link](https://ideone.com/noj0Wx)
+- [A. Police Recruits](https://github.com/moaazelsayed1/CAT-task/blob/main/APoliceRecruits.cpp)</br>
+- [Ideone link](https://ideone.com/noj0Wx)
 
 - ### Problem 2:
 
-[Reversed String](https://github.com/moaazelsayed1/CAT-task/blob/main/reversedString.cpp)</br>
-[Ideone link](https://ideone.com/02hOKB)
+- [Reversed String](https://github.com/moaazelsayed1/CAT-task/blob/main/reversedString.cpp)</br>
+- [Ideone link](https://ideone.com/02hOKB)
