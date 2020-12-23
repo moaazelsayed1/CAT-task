@@ -5,7 +5,7 @@ This repository contains CATReloaded recruitment second phase tasks (backend).
 
 ## 1. What do you think back-end developers do?
 
-1. Back-end developers should understand the goals of the website and come up with the effective logic to make the web app works properly using a server-side language like Python.<br/>
+1. Back-end developers should understand the goals of the website and come up with the effective logic to make the web app works properly and implement it using a server-side language like Python.<br/>
 2. they should understand some of front-end web technologies like HTML, CSS, and JavaScript; to communicate with team members on the front-end.<br/>
 2. They work with Database alse to create, edit and save data.<br/>
 
@@ -17,7 +17,7 @@ This repository contains CATReloaded recruitment second phase tasks (backend).
 
 - Storing data in a database reduces the load on the server CPU and allows data to be retrieved if the server crashes.
 Many requests sent to the server might require a database query. A client might request information that is stored in the database, or submit data to be added to the database,
-for example while log-in process.
+for example log-in process.
 <br/><br/> 
 
 >## Problems:
