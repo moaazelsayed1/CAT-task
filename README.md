@@ -1,7 +1,7 @@
 # CAT-task
 This repository contains CATReloaded recruitment second phase tasks (backend).
 
-> ## required questions:
+## required questions:
 
 ## 1. What do you think back-end developers do?
 
