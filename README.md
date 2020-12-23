@@ -18,14 +18,14 @@ HTTP: Hyper Text Transfer Protocol, it's used to deliver content like text, imag
 Storing data in a database reduces the load on the server CPU and allow to be retrieved if the server crashes.
 Many requests sent to the server might require a database query. A client might request information that is stored in the database, or submit data to be added to the database. 
 
-> ##Problems:
+>## Problems:
 
 - ### problem 1:
 
 [A. Police Recruits](https://github.com/moaazelsayed1/CAT-task/blob/main/APoliceRecruits.cpp)</br>
-[ideone link](https://ideone.com/noj0Wx)
+[Ideone link](https://ideone.com/noj0Wx)
 
 - ### Problem 2:
 
 [Reversed String](https://github.com/moaazelsayed1/CAT-task/blob/main/reversedString.cpp)</br>
-[ideone link](https://ideone.com/02hOKB)
+[Ideone link](https://ideone.com/02hOKB)
