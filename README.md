@@ -17,7 +17,7 @@ This repository contains CATReloaded recruitment second phase tasks (backend).
 
 - Storing data in a database reduces the load on the server CPU and allows data to be retrieved if the server crashes.
 Many requests sent to the server might require a database query. A client might request information that is stored in the database, or submit data to be added to the database,
-for example while log-in process
+for example while log-in process.
 <br/><br/> 
 
 >## Problems:
