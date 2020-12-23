@@ -1,5 +1,5 @@
 #include <iostream>
-#include<string>
+#include <string>
 
 std::string reverse(std::string p);
 
@@ -20,7 +20,7 @@ int main()
 
 std::string reverse(std::string p)
 {
-    // we only need to iterate over thr half of the array so we can
+    // we only need to iterate over the half of the array so we can
     // access every element only once and replace it with its index complement 
     for (int i = 0; i < p.length() / 2; i++)
     {
