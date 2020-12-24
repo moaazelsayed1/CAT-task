@@ -26,6 +26,7 @@ for example log-in process.
 
 - [A. Police Recruits](https://github.com/moaazelsayed1/CAT-task/blob/main/APoliceRecruits.cpp)</br>
 - [Ideone link](https://ideone.com/noj0Wx)
+- [Codeforces link](https://codeforces.com/contest/427/submission/102079131)
 
 - ### Problem 2:
 
